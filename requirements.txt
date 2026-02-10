@@ -1,0 +1,2 @@
+speechrecognition
+# Note: PyAudio might be needed for real voice — install separately if required: pip install pyaudio
